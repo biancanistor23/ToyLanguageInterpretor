@@ -47,6 +47,3 @@ Explored GUI development using JavaFX and Scene Builder. Learned how to design a
 By working on this project, I enhanced my Java programming skills and  gained valuable experience in software architecture, language design, GUI development, and implementation techniques.
 ![Image Description](https://imgur.com/emWu234)
 
-
-
-
