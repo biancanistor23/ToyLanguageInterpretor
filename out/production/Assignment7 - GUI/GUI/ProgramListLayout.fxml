@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.ListView?>
+<?import javafx.scene.effect.InnerShadow?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.paint.Color?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="516.0" prefWidth="413.0" style="-fx-background-color: #D6C3F6; -fx-background-radius: 10;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="GUI.ProgramListController">
+   <children>
+      <ListView fx:id="programListView" layoutX="4.0" layoutY="5.0" prefHeight="452.0" prefWidth="405.0" style="-fx-background-color: #EAE1FA; -fx-background-radius: 10;" AnchorPane.leftAnchor="4.0" AnchorPane.rightAnchor="4.0" AnchorPane.topAnchor="5.0" />
+      <Button fx:id="runButton" layoutX="175.0" layoutY="471.0" mnemonicParsing="false" onAction="#onRunButtonPressed" prefHeight="26.0" prefWidth="64.0" style="-fx-background-color: #A1CAC8; -fx-background-radius: 10;" text="Run" AnchorPane.bottomAnchor="14.333333333333314" AnchorPane.leftAnchor="175.0" AnchorPane.rightAnchor="174.33333333333334">
+         <font>
+            <Font name="Verdana" size="16.0" />
+         </font>
+         <effect>
+            <InnerShadow>
+               <color>
+                  <Color red="0.12156862765550613" green="0.6941176652908325" blue="0.6549019813537598" />
+               </color>
+            </InnerShadow>
+         </effect></Button>
+   </children>
+</AnchorPane>
