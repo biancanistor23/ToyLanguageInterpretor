@@ -46,7 +46,7 @@ Explored GUI development using JavaFX and Scene Builder. Learned how to design a
 
 By working on this project, I enhanced my Java programming skills and  gained valuable experience in software architecture, language design, GUI development, and implementation techniques.
 <div style="display: flex; justify-content: space-between;">
-    <img src="Screenshot%202024-02-11%20165053.png" width="300"/>
-    <img src="Screenshot%202024-02-11%20165108.png" width="300"/>
     <img src="Screenshot%202024-02-11%20164937.png" width="300"/>
+    <img src="Screenshot%202024-02-11%20165053.png" width="350"/>
+    <img src="Screenshot%202024-02-11%20165108.png" width="350"/>
 </div>
