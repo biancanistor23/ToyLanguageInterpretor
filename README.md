@@ -45,4 +45,8 @@ Implemented features like print, write, and read heap statements to handle input
 Explored GUI development using JavaFX and Scene Builder. Learned how to design and create user-friendly interfaces for my applications. Understood concepts such as layout management, event handling, and styling.
 
 By working on this project, I enhanced my Java programming skills and  gained valuable experience in software architecture, language design, GUI development, and implementation techniques.
-<img src="Screenshot%202024-02-11%20164937.png" alt="Image Description" width="300"/>
+<div style="display: flex; justify-content: space-between;">
+    <img src="Screenshot%202024-02-11%20165053.png" width="300"/>
+    <img src="Screenshot%202024-02-11%20165108.png" width="300"/>
+    <img src="Screenshot%202024-02-11%20164937.png" width="300"/>
+</div>
